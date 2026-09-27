@@ -24,3 +24,4 @@ and this is the sd card
 i now need to make the other side and then the hinge
 
 
+this is what i came up with for the first half part
