@@ -25,3 +25,7 @@ i now need to make the other side and then the hinge
 
 
 this is what i came up with for the first half part
+
+
+
+<img width="800" height="788" alt="image" src="https://github.com/user-attachments/assets/fe5f8589-e392-4ed0-882f-15027aa77a23" />
