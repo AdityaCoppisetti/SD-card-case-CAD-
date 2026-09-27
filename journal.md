@@ -32,4 +32,6 @@ this is what i came up with for the first half part
 
 here is what i added- 
 
-1) 
+1) a hinge mechanism
+2) a latch mechanism
+3) a lil hook on the top so i can add a lanyard
