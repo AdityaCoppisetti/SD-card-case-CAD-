@@ -35,3 +35,7 @@ here is what i added-
 1) a hinge mechanism
 2) a latch mechanism
 3) a lil hook on the top so i can add a lanyard
+
+i remade the hinge mechanism and then i added a better hook thingy so that its sleek and then i added texts - @dhruv.coppisettii cause thats my insta handle ( im yet to convert it into a full on photography/ content page. 
+
+and then i added the line - " somethings arent meant to be captured" because i forget my sd cards all the time ( where would i be if not for nikon internal storage) 
