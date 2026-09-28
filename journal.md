@@ -53,3 +53,6 @@ yk what would be better? if i made it in the shape of a pokedex. would be pretty
 oh and since i have complete the first part , ill go ahead and add it to the repo! along with the sd card file that i used
 
 Now im getting started on the side 2 , i want to add a memory stick duo pro slot aswell and then i want to add micro sd card slots in the sd card slots 
+
+<img width="680" height="664" alt="image" src="https://github.com/user-attachments/assets/939f63d2-13ce-44df-8efc-33b9d87d6aa6" />
+
