@@ -76,3 +76,9 @@ now this is done , i just need to make the hinge part so that it stays together
 
 <img width="1077" height="777" alt="image" src="https://github.com/user-attachments/assets/66e483dd-a188-40e3-bfb5-f62f3667b8c6" />
 
+
+now ive made the hinge rod and the screw in bits ( ill be subsituting something else there) 
+
+<img width="1077" height="777" alt="image" src="https://github.com/user-attachments/assets/8358a795-f3a3-48ad-bf54-ec817c1afb3f" />
+
+
