@@ -82,3 +82,5 @@ now ive made the hinge rod and the screw in bits ( ill be subsituting something 
 <img width="1077" height="777" alt="image" src="https://github.com/user-attachments/assets/8358a795-f3a3-48ad-bf54-ec817c1afb3f" />
 
 
+and then i also put this 
+
