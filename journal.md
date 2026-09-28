@@ -56,3 +56,4 @@ Now im getting started on the side 2 , i want to add a memory stick duo pro slot
 
 <img width="680" height="664" alt="image" src="https://github.com/user-attachments/assets/939f63d2-13ce-44df-8efc-33b9d87d6aa6" />
 
+i went on the first side and added this " tap here" text
