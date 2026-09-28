@@ -89,3 +89,5 @@ and then i also put this
 
 which is a cheering guy and a thumbs up guy , i just thought it would be kinda funny 
 
+now that i have done everyting , let me add the .step files in the repo in the CAD folder 
+
