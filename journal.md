@@ -38,4 +38,7 @@ here is what i added-
 
 i remade the hinge mechanism and then i added a better hook thingy so that its sleek and then i added texts - @dhruv.coppisettii cause thats my insta handle ( im yet to convert it into a full on photography/ content page. 
 
-and then i added the line - " somethings arent meant to be captured" because i forget my sd cards all the time ( where would i be if not for nikon internal storage) 
+and then i added the line - " somethings arent meant to be captured" because i forget my sd cards all the time (where would i be if not for nikon internal storage) 
+i also wanted to add sony's old memory card memory stick duo pro (god what were they thinking while naming it?) 
+
+
