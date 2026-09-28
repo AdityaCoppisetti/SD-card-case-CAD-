@@ -1,6 +1,9 @@
 # SD-card-case-CAD-
 a 3d printed booklet type case for carrying my sd cards 
 
+<img width="680" height="664" alt="image" src="https://github.com/user-attachments/assets/c2a7428e-bc6a-43ce-b8fa-ba47ffbc57fd" />
+
+
 
 im trying to make something like this- 
 
