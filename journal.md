@@ -66,3 +66,7 @@ i went on the first side and added this " tap here" text because i will be putti
 
 
 almost done with the second side , made the lock mechanism , now i just need to make the hinge mechanism and then cover the back of it with something cool
+
+
+<img width="680" height="664" alt="image" src="https://github.com/user-attachments/assets/f850282d-1b39-4bd3-8e19-58db85724f90" />
+
