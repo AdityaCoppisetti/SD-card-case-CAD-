@@ -70,3 +70,9 @@ almost done with the second side , made the lock mechanism , now i just need to 
 
 <img width="680" height="664" alt="image" src="https://github.com/user-attachments/assets/f850282d-1b39-4bd3-8e19-58db85724f90" />
 
+
+
+now this is done , i just need to make the hinge part so that it stays together
+
+<img width="1077" height="777" alt="image" src="https://github.com/user-attachments/assets/66e483dd-a188-40e3-bfb5-f62f3667b8c6" />
+
