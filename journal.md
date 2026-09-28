@@ -8,7 +8,7 @@ this is what i had in my mind
 
 
 # THE DESIGN
-
+2.5 cm
 okay so i opened onshape and then experimented a bit and then i found this .step sd card file on grabcad , ill be attaching that to the github repo.
 and so i used that for reference and built the case around it. 
 
@@ -56,4 +56,4 @@ Now im getting started on the side 2 , i want to add a memory stick duo pro slot
 
 <img width="680" height="664" alt="image" src="https://github.com/user-attachments/assets/939f63d2-13ce-44df-8efc-33b9d87d6aa6" />
 
-i went on the first side and added this " tap here" text
+i went on the first side and added this " tap here" text because i will be putting a nfc tag there and then if people want to see my portfolio they can tap their phone on the nfc tag. i however do want to add a little qr code aswell but i dont know how i would have to do that 
