@@ -51,3 +51,5 @@ and i think it looks much better.
 yk what would be better? if i made it in the shape of a pokedex. would be pretty cool ngl lemme see what i can do to the front of the case
 
 oh and since i have complete the first part , ill go ahead and add it to the repo! along with the sd card file that i used
+
+Now im getting started on the side 2 , i want to add a memory stick duo pro slot aswell and then i want to add micro sd card slots in the sd card slots 
