@@ -42,3 +42,9 @@ and then i added the line - " somethings arent meant to be captured" because i f
 i also wanted to add sony's old memory card memory stick duo pro (god what were they thinking while naming it?) 
 
 
+<img width="680" height="664" alt="image" src="https://github.com/user-attachments/assets/e49bebf2-3ed9-4f0a-a36a-e0cbfcf1aff6" />
+
+
+and i think it looks much better.
+
+yk what would be better? if i made it in the shape of a pokedex. would be pretty cool ngl lemme see what i can do to the front of the case
